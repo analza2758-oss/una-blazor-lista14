@@ -51,17 +51,17 @@ Este projeto consiste em uma aplicação web que apresenta um currículo profiss
 1. Clone o repositório:
    
 git clone https://github.com/seu-usuario/una-blazor-lista14
-
-3. Acesse a pasta do projeto:
+---
+2. Acesse a pasta do projeto:
    
 cd una-blazor-lista14
-
+---
 3. Execute a aplicação:
    
 dotnet run
-
+---
 4. Abra no navegador:
-5. 
+   
 https://localhost:5160
 
 
