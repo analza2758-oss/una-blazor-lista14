@@ -1,21 +1,17 @@
 # 💼 Meu Currículo - Blazor
 
-Projeto desenvolvido como atividade prática da disciplina, com o objetivo de criar e aprimorar um currículo online utilizando **Blazor** e **C# (.NET)**.
+---
+
+## 👩‍🎓 Identificação
+
+**Nome:** Ana Luiza Martins  
+**Curso:** Ciência da Computação  
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este projeto consiste em uma aplicação web que apresenta um currículo profissional de forma moderna e interativa. A proposta foi personalizar o layout e adicionar informações relevantes para torná-lo mais profissional.
-
----
-
-## 🎯 Objetivo
-
-- Praticar desenvolvimento com Blazor  
-- Aplicar conceitos de interface e experiência do usuário (UX)  
-- Organizar informações profissionais em formato web  
-- Trabalhar com componentes e estrutura de páginas  
+Este projeto consiste em uma aplicação web desenvolvida com Blazor para apresentação de um currículo profissional de forma moderna e interativa. A proposta foi personalizar o layout e adicionar informações relevantes, tornando a aplicação mais profissional.
 
 ---
 
@@ -29,24 +25,16 @@ Este projeto consiste em uma aplicação web que apresenta um currículo profiss
 
 ---
 
-## 📄 Funcionalidades
+## 🚀 Guia de Execução
 
-- Exibição de informações pessoais  
-- Seção de experiência profissional  
-- Layout organizado e responsivo  
-- Estilização para melhor visualização  
+### 🔧 Pré-requisitos
 
----
-
-## 👩‍💻 Estrutura do Projeto
-
-- **Pages** → Contém as páginas principais da aplicação  
-- **Shared** → Componentes reutilizáveis  
-- **wwwroot** → Arquivos estáticos (CSS, imagens, etc.)  
+- .NET SDK instalado  
+- Visual Studio Code ou Visual Studio  
 
 ---
 
-## 🚀 Como Executar o Projeto
+### ▶️ Como executar via terminal
 
 1. Clone o repositório:
    
@@ -67,13 +55,34 @@ https://localhost:5160
 
 ---
 
-## 📚 Aprendizados
+## 📸 Screenshot da Aplicação
 
-Durante o desenvolvimento deste projeto, foram trabalhados:
+> Adicione aqui um print da sua aplicação
 
-- Estrutura básica de aplicações Blazor  
-- Componentização  
-- Organização de código  
-- Noções de design de interface  
+Exemplo:<img width="1916" height="895" alt="MeuCurriculo" src="https://github.com/user-attachments/assets/6cf8bc02-3d3c-46ef-ac08-b40c655d1ff7" />
 
+
+💡 Dica:
+- Crie uma pasta chamada **img** no projeto
+- Coloque o print lá dentro
+- Use exatamente esse caminho
+
+---
+
+## 📚 Heurísticas, Ajuda e Documentação
+
+Embora o sistema tenha sido desenvolvido para ser simples e intuitivo, foram considerados princípios básicos de usabilidade:
+
+- Interface limpa e organizada  
+- Informações bem distribuídas e de fácil leitura  
+- Navegação simples e direta  
+- Feedback visual através de layout e cores  
+
+A documentação do projeto é mínima, porém o código foi estruturado de forma clara, facilitando a compreensão e manutenção. Caso necessário, o usuário pode consultar a documentação oficial do Blazor e .NET.
+
+---
+
+## 📄 Observações
+
+Projeto desenvolvido para fins acadêmicos, com foco no aprendizado de desenvolvimento web utilizando Blazor e boas práticas de organização de código.
 
