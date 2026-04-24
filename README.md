@@ -37,19 +37,19 @@ Este projeto consiste em uma aplicação web desenvolvida com Blazor para aprese
 ### ▶️ Como executar via terminal
 
 1. Clone o repositório:
-   
+   ---
 git clone https://github.com/seu-usuario/una-blazor-lista14
 
 2. Acesse a pasta do projeto:
-   
+   ---
 cd una-blazor-lista14
 
 3. Execute a aplicação:
-   
+   ---
 dotnet run
 
 4. Abra no navegador:
-   
+   ---
 https://localhost:5160
 
 
